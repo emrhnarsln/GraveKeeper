@@ -11,4 +11,4 @@ Grave Keeper, aksiyon dolu bir 3D hayatta kalma oyunudur. Oyuncu, bir mezarlığ
 - **Sonuç Ekranı**: Oyuncunun oyun sonunda elde ettiği başarıları gösteren bir sonuç ekranı (scoreboard, play again).
 
 YouTube
-Oynanış videosu: [text](https://youtu.be/ihwCPC4kP0I?si=FvlRn0eO2pn4ieMP)
+[Oynanış videosu:](https://youtu.be/ihwCPC4kP0I?si=FvlRn0eO2pn4ieMP)
